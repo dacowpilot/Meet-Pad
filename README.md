@@ -3,7 +3,7 @@
 
 # Features 
 
-Meet-Pad is a hackpad that has 7 keys for shortcuts, a rotary encoder for volume control, and an OLED display screen for status. Like the name says, it will be used for shortcuts in meetings such as zoom calls and other meeting apps. 
+Meet-Pad is a hackpad that has 7 keys for shortcuts(like mute, camera, record, leave, etc.), a rotary encoder for volume control, and an OLED display screen for things like status. Like the name says, it will be used for shortcuts in meetings such as zoom calls and other meeting apps. 
 
 # CAD
 
@@ -30,4 +30,5 @@ Below are the parts I will be using to make my hackpad:
 • 1x 0.91 inch OLED display  
 • 7x White DSA Keycaps  
 • 4x M3x16mm screws  
-• 1x 3D printed case (1x Top Piece, 1x Bottom Piece, 1x Rotary Encoder Knob)   
+• 1x 3D printed case (1x Top Piece, 1x Bottom Piece, 1x Rotary Encoder Knob)
+• 1x PCB board
