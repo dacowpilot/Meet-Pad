@@ -4,6 +4,8 @@ Meet-Pad is a hackpad that has 7 keys, a rotary encoder, and an OLED display scr
 
 # CAD
 
+<img width="2360" height="1640" alt="_com apple Pasteboard 4OdL4Z" src="https://github.com/user-attachments/assets/f9284f8c-63b0-4729-8cc7-58a10e61b780" />
+<img width="2360" height="1640" alt="_com apple Pasteboard 09b4Jj" src="https://github.com/user-attachments/assets/68c8d71b-8fdc-4650-a458-d5571ea98d0c" />
 
 
 
