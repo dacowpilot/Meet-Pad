@@ -1,5 +1,5 @@
 # Meet-Pad
-a hackpad for hackclub called meetpad
+Assets/Meetpad.png
 # BOM
 I already have a soldering iron so I don't need the soldering grant, but I do need the PCB and 3D printed case grant.  
 
