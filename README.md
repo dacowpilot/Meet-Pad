@@ -3,7 +3,7 @@
 
 # Features 
 
-Meet-Pad is a hackpad that has 7 keys for shortcuts(like mute, camera, record, leave, etc.), a rotary encoder for volume control, and an OLED display screen for things like status. Like the name says, it will be used for shortcuts in meetings such as zoom calls and other meeting apps. 
+Meet-Pad is a hackpad that has 7 keys for shortcuts(like mute, camera, record, leave, etc.), a rotary encoder for volume control, and an OLED display screen for things like status. Like the name says, it will be used for shortcuts in meetings such as zoom calls and other meeting apps. The firmware might have a few bugs right now but I can fix it later once I get the XIAO.
 
 # CAD
 
