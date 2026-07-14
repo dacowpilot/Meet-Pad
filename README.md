@@ -1,6 +1,6 @@
 # Meet-Pad
 <img width="2360" height="1640" alt="_com apple Pasteboard bxIFWW" src="https://github.com/user-attachments/assets/07d00f7e-5a26-49f9-abf8-a84b592aee86" />  
-
+made in Shapr3D
 # Features 
 
 Meet-Pad is a hackpad that has 7 keys for shortcuts(like mute, camera, record, leave, etc.), a rotary encoder for volume control, and an OLED display screen for things like status. Like the name says, it will be used for shortcuts in meetings such as zoom calls and other meeting apps. The firmware might have a few bugs right now but I can fix it later once I get the XIAO.
